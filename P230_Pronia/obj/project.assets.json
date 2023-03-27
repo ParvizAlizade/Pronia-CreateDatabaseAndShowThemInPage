@@ -2019,11 +2019,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LENOVO\\source\\repos\\P230_Pronia\\P230_Pronia\\P230_Pronia.csproj",
+      "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\P230_Pronia\\P230_Pronia\\P230_Pronia.csproj",
       "projectName": "P230_Pronia",
-      "projectPath": "C:\\Users\\LENOVO\\source\\repos\\P230_Pronia\\P230_Pronia\\P230_Pronia.csproj",
+      "projectPath": "C:\\Users\\LENOVO\\Desktop\\P230_Pronia\\P230_Pronia\\P230_Pronia.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LENOVO\\source\\repos\\P230_Pronia\\P230_Pronia\\obj\\",
+      "outputPath": "C:\\Users\\LENOVO\\Desktop\\P230_Pronia\\P230_Pronia\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
